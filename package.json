@@ -65,7 +65,7 @@
     "@types/rimraf": "0.0.28",
     "@types/sinon": "2.2.1",
     "@types/temp": "0.8.29",
-    "mocha": "^3.2.0",
+    "mocha": "^3.4.0",
     "nyc": "^10.1.2",
     "rimraf": "^2.6.1",
     "sinon": "^2.0.0",
